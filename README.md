@@ -17,6 +17,6 @@
 
 ## INSTALLATION
 
-1. `npm install` or `yarn`
-2. `npm start` or `yarn start` for run the project
-3. `yarn test` for run the test
+1. `npm install`
+2. `npm start` 
+3. `npm test` for run the test
